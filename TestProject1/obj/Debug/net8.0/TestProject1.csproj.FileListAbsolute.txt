@@ -103,3 +103,4 @@ C:\Users\Lenovo\source\repos\ConsoleApp1\TestProject1\obj\Debug\net8.0\refint\Te
 C:\Users\Lenovo\source\repos\ConsoleApp1\TestProject1\obj\Debug\net8.0\TestProject1.pdb
 C:\Users\Lenovo\source\repos\ConsoleApp1\TestProject1\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\ConsoleApp1\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll
+C:\Users\Lenovo\source\repos\ConsoleApp1\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json

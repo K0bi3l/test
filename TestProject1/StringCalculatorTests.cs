@@ -115,6 +115,17 @@ namespace TestProject1
             Assert.Equal(6, result2);
         }
 
-        
+        [Fact]
+
+        public void TestMultipleMultiCharDelimeters()
+        {
+            var calculator = new StringCalculator();
+            var result1 = calculator.Calculate("//[***][%%%]\n1***2%%%3");
+            var result2 = calculator.Calculate("//[***][%%%]\n1***2,3");
+            Assert.Equal(6, result1);
+            Assert.Equal(6, result2);
+        }
+
+
     }
 }
